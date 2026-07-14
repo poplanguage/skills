@@ -1,0 +1,4 @@
+interface:
+  display_name: "Programming Pop Lang"
+  short_description: "Write idiomatic, statically typed Pop Lang code"
+  default_prompt: "Use $programming-pop to write and validate idiomatic Pop Lang code."

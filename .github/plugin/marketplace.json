@@ -1,0 +1,13 @@
+{
+  "name": "pop-lang-skills",
+  "owner": {
+    "name": "Pop Language Project"
+  },
+  "plugins": [
+    {
+      "name": "pop",
+      "source": "./plugins/pop",
+      "description": "Pop Lang syntax, idioms, Package layout, CLI, and toolchain guidance for coding agents."
+    }
+  ]
+}

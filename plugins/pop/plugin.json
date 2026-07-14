@@ -1,0 +1,6 @@
+{
+  "name": "pop",
+  "version": "0.1.0",
+  "description": "Write idiomatic, strongly and statically typed Pop Lang with current syntax, CLI, and toolchain guidance.",
+  "skills": ["./skills/"]
+}

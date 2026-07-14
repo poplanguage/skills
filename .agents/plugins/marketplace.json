@@ -1,0 +1,16 @@
+{
+  "name": "pop-lang-skills",
+  "owner": {
+    "name": "Pop Language Project"
+  },
+  "interface": {
+    "displayName": "Pop Lang Agent Skills"
+  },
+  "plugins": [
+    {
+      "name": "pop",
+      "source": "./plugins/pop",
+      "description": "Pop Lang syntax, idioms, Package layout, CLI, and toolchain guidance for coding agents."
+    }
+  ]
+}
